@@ -1,16 +1,18 @@
 
-
 # Hi, I'm Lena!
 
----
-
-### :man_technologist: About myself:
-
+<img height="325px" align="right" src="https://github.com/EllenLis/EllenLis/blob/main/imgD7Cc.png" />
+     
 An aspiring front-end developer passionate about crafting beautiful and functional web interfaces. My journey in tech has been driven by a keen interest in HTML, CSS, JavaScript, and a curiosity for how these technologies can create seamless user experiences. I've also explored iOS development with Swift, adding a versatile edge to my skill set.
 
 I'm currently seeking opportunities to launch my career in front-end development. I'm enthusiastic about contributing to a team where I can apply my skills, learn, and grow. Through my GitHub repositories, you'll find samples of my work and my progression in this exciting field.
 
 I'm eager to connect with like-minded professionals and teams who are on the lookout for someone with a fresh perspective and a relentless drive to learn and contribute. If you're interested in discussing potential opportunities or collaborations, please feel free to reach out!
+
+
+---
+
+### 👩‍💻: Education:
 
 + :zap: Kazan Federal University, KFU
   - Accounting, analysis and audit
@@ -21,7 +23,7 @@ I'm eager to connect with like-minded professionals and teams who are on the loo
 + :zap: RS Schools Course «JavaScript/Front-end» (in progress)
 
 - :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-LENA-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/EllenLis) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:elenalis0139@gmail.com)
-
+    
 ---
 
 ### 💻 Технологии:
@@ -34,6 +36,7 @@ I'm eager to connect with like-minded professionals and teams who are on the loo
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" title="swift" alt="swift" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
 </div>
+<img height="225px" align="right" src="https://github.com/EllenLis/EllenLis/blob/main/foxBook.png" />
 
 ---
 
@@ -46,10 +49,10 @@ I'm eager to connect with like-minded professionals and teams who are on the loo
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=EllenLis&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=EllenLis&theme=dark&background=000000" alt="Front-End's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EllenLis&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="Front-End's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EllenLis&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
